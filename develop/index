@@ -3,6 +3,10 @@ now, I'm training with git
 * S1 be update
 * MyBr updated
 * MyBr merge to S1
+<<<<<<< HEAD
 * edit on S1
 * edit on S1 *2
 * edit on MyBr *2
+=======
+* edit on MyBr *10
+>>>>>>> MyBr
